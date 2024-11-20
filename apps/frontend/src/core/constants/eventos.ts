@@ -8,7 +8,7 @@ const eventos: Evento[] = [
         senha: 'senha123',
         nome: 'Evento de Desenvolvimento Fullstack',
         data: new Date('2024-12-01T10:00:00Z'),
-        local: 'São Paulo, SP',
+        local: 'Poções, BA',
         descricao:
             'Um evento completo para aprender desenvolvimento fullstack do zero.',
         imagem: 'https://play-lh.googleusercontent.com/mpBm6uxkAwCTaDL7us2iG0L-Lpxb6_vUYxJ5dBMSrKFGZoION2lUY5RkJYModzngyIk',
